@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1731940076 source:/media/faresedres/Hard Drive/ITI/C/Menu/Menu/menu.c
+	"menu.h"
+
+1731940057 source:/media/faresedres/Hard Drive/ITI/C/Menu/Menu/main.c
+	<stdio.h>
+	"conio.h"
+	"menu.h"
+
+1731929951 /media/faresedres/Hard Drive/ITI/C/Menu/Menu/conio.h
+	<termios.h>
+	<unistd.h>
+	<stdio.h>
+	<fcntl.h>
+	<stdlib.h>
+	<string.h>
+
+1731940033 /media/faresedres/Hard Drive/ITI/C/Menu/Menu/menu.h
+
+1732018234 source:/media/faresedres/Hard Drive/ITI/C/Lab3/Menu/menu.c
+	"menu.h"
+
+1732018144 /media/faresedres/Hard Drive/ITI/C/Lab3/Menu/menu.h
+
+1732019782 source:/media/faresedres/Hard Drive/ITI/C/Lab3/Menu/main.c
+	<stdio.h>
+	"conio.h"
+	"menu.h"
+
+1731929951 /media/faresedres/Hard Drive/ITI/C/Lab3/Menu/conio.h
+	<termios.h>
+	<unistd.h>
+	<stdio.h>
+	<fcntl.h>
+	<stdlib.h>
+	<string.h>
+
+1733510146 source:/media/faresedres/Hard Drive/ITI/C/Lab5/Menu/main.c
+	<stdio.h>
+	"menu.h"
+
+1733296098 /media/faresedres/Hard Drive/ITI/C/Lab5/Menu/conio.h
+	<termios.h>
+	<unistd.h>
+	<stdio.h>
+	<fcntl.h>
+	<stdlib.h>
+	<string.h>
+
+1733509047 /media/faresedres/Hard Drive/ITI/C/Lab5/Menu/menu.h
+
+1733513733 source:/media/faresedres/Hard Drive/ITI/C/Lab5/Menu/menu.c
+	"menu.h"
+	"conio.h"
+	"validation.h"
+
+1732104705 source:/media/faresedres/Hard Drive/ITI/C/Lab5/Menu/string.c
+	"string.h"
+
+1732103781 /media/faresedres/Hard Drive/ITI/C/Lab5/Menu/string.h
+
+1732650971 source:/media/faresedres/Hard Drive/ITI/C/Lab5/Menu/mystring.c
+	<stdio.h>
+
+1732109112 /media/faresedres/Hard Drive/ITI/C/Lab5/Menu/mystring.h
+
+1733507489 source:/media/faresedres/Hard Drive/ITI/C/Lab5/Menu/validation.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"validation.h"
+
+1733248137 /media/faresedres/Hard Drive/ITI/C/Lab5/Menu/validation.h
+	"menu.h"
+
