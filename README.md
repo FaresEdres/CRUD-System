@@ -22,6 +22,5 @@ A simple **Employee Management System** built in C that provides CRUD functional
 - **Input Validation**: Ensures correct user inputs are processed, and invalid inputs are handled gracefully.
 - **Switch Case for Menu Control**: A structured approach to handle menu navigation and operations.
 
-###Demo Video
-[CRUD System Video](https://github.com/user-attachments/assets/a59dceef-3c80-47ed-8b8f-a11375d5082d)
-
+### Project Demo:
+[![CRUD System Video](https://github.com/user-attachments/assets/d3f48d5d-17da-4092-802c-6f52f5b717cc)](https://github.com/user-attachments/assets/d80bf214-4953-468c-8f8e-e91ca4c3852a)
